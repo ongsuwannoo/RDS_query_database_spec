@@ -264,4 +264,6 @@
 | rds.mysql.x1.large.4.ha    |     2 |    8 |   ha    | 5.6, 5.7, 8.0 |
 | rds.mysql.x1.16xlarge.8.rr |    64 |  512 | replica | 5.6, 5.7, 8.0 |
 
+REF. [Querying Database Specifications](https://support.huaweicloud.com/intl/en-us/eu-west-0-api-rds/rds_06_0002.html)
+
 <em>update: 3:00 PM 19/8/2021</em>
