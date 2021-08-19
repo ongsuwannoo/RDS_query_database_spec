@@ -263,4 +263,5 @@
 | rds.mysql.x1.4xlarge.4.ha  |    16 |   64 |   ha    | 5.6, 5.7, 8.0 |
 | rds.mysql.x1.large.4.ha    |     2 |    8 |   ha    | 5.6, 5.7, 8.0 |
 | rds.mysql.x1.16xlarge.8.rr |    64 |  512 | replica | 5.6, 5.7, 8.0 |
+
 <em>update: 3:00 PM 19/8/2021</em>
