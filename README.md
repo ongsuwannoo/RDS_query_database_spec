@@ -1,4 +1,4 @@
-# Querying Database Specifications
+# Huawei Cloud Querying Database Specifications
 
 ## SQLServer
 | CODE                               | VCPUs |  RAM |  MODE   | VERSION                                             |
